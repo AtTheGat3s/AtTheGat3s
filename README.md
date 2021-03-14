@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AtTheGat3s
-- 👀 I’m interested in everything that gives a challange
+- 👋 Hi, I’m Nicolas Jancke
+- 👀 I’m interested in everything that challanges me
 - 🌱 I’m currently learning React, Angular, Java, C#
 - 📫 How to reach me nicolas.jancke@gmx.de
 
