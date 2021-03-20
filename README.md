@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicolas Jancke
-- 👀 I’m interested in everything that challanges me
+- 👀 I’m interested in everything that presents a challange
 - 🌱 I’m currently learning React, Angular, Java, C#
 - 📫 How to reach me nicolas.jancke@gmx.de
 
